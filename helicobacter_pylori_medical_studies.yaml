@@ -1,0 +1,500 @@
+metadata:
+  topic: "Helicobacter pylori (H. pylori) Medical Studies Compendium"
+  source_tld_constraints:
+    - ".gov"
+    - ".org"
+  generated_date: "2026-10-10"
+  description: "Curated dataset of landmark clinical trials, systematic reviews, cohorts, and guidelines on Helicobacter pylori."
+
+categories:
+  - name: "Foundational Discovery & Causality"
+    studies:
+      - id: "MARSHALL-1984"
+        title: "Unidentified curved bacilli in the stomach of patients with gastritis and peptic ulceration"
+        authors: "Marshall BJ, Warren JR"
+        journal: "The Lancet"
+        year: 1984
+        pmid: 6145023
+        url: "https://pubmed.ncbi.nlm.nih.gov/6145023/"
+        source_domain_tld: ".gov"
+        study_type: "Histopathological & microbiological discovery"
+        key_findings: "Disproved the dogma of a sterile stomach; first cultured spiral bacilli from human antral biopsies and linked them to active chronic gastritis and peptic ulcers."
+
+      - id: "MARSHALL-1985"
+        title: "Attempt to fulfil Koch's postulates for pyloric Campylobacter"
+        authors: "Marshall BJ, Armstrong JA, McGechie DB, Glancy RJ"
+        journal: "Medical Journal of Australia"
+        year: 1985
+        pmid: 3982345
+        url: "https://pubmed.ncbi.nlm.nih.gov/3982345/"
+        source_domain_tld: ".gov"
+        study_type: "Self-experimentation challenge"
+        key_findings: "Fulfillment of Koch's postulates through self-ingestion, proving H. pylori causes acute histologic gastritis resolving after treatment."
+
+      - id: "CORREA-1988"
+        title: "A Human Model of Gastric Carcinogenesis"
+        authors: "Correa P"
+        journal: "Cancer Research"
+        year: 1988
+        pmid: 3290327
+        url: "https://pubmed.ncbi.nlm.nih.gov/3290327/"
+        source_domain_tld: ".gov"
+        study_type: "Carcinogenesis model"
+        key_findings: "Proposed the Correa cascade of gastric precancerous progression, identifying H. pylori as the driving inflammatory initiator."
+
+      - id: "GOODWIN-1989"
+        title: "Transfer of Campylobacter pylori and Campylobacter mustelae to Helicobacter gen. nov."
+        authors: "Goodwin CS, Armstrong JA, Chilvers T, et al."
+        journal: "International Journal of Systematic Bacteriology"
+        year: 1989
+        pmid: 2686772
+        url: "https://pubmed.ncbi.nlm.nih.gov/2686772/"
+        source_domain_tld: ".gov"
+        study_type: "Taxonomic characterization"
+        key_findings: "Established the genus Helicobacter distinct from Campylobacter based on morphology, ultrastructure, and fatty acid profiling."
+
+      - id: "NIH-CONSENSUS-1994"
+        title: "Helicobacter pylori in peptic ulcer disease. NIH Consensus Conference"
+        authors: "National Institutes of Health Consensus Development Panel"
+        journal: "JAMA"
+        year: 1994
+        pmid: 8007082
+        url: "https://pubmed.ncbi.nlm.nih.gov/8007082/"
+        source_domain_tld: ".gov"
+        study_type: "National consensus panel statement"
+        key_findings: "Officially declared H. pylori as the primary cause of peptic ulcer disease and mandated antimicrobial therapy in all infected ulcer patients."
+
+      - id: "IARC-1994"
+        title: "Schistosomes, liver flukes and Helicobacter pylori"
+        authors: "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans"
+        journal: "IARC Monographs on the Evaluation of Carcinogenic Risks to Humans"
+        year: 1994
+        volume: 61
+        pmid: 7715068
+        url: "https://pubmed.ncbi.nlm.nih.gov/7715068/"
+        source_domain_tld: ".gov"
+        study_type: "International cancer monograph"
+        key_findings: "Classified H. pylori as a definitive Group 1 human carcinogen for gastric adenocarcinoma and MALT lymphoma."
+
+  - name: "Gastric Cancer Pathogenesis & Chemoprevention Trials"
+    studies:
+      - id: "PARSONNET-1991"
+        title: "Helicobacter pylori infection and the risk of gastric carcinoma"
+        authors: "Parsonnet J, Friedman GD, Vandersteen DP, et al."
+        journal: "New England Journal of Medicine"
+        year: 1991
+        pmid: 1922202
+        url: "https://www.nejm.org/doi/full/10.1056/NEJM199110173251603"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/1922202/"
+        source_domain_tld: ".org"
+        study_type: "Nested prospective case-control cohort"
+        key_findings: "Demonstrated a 3.6-fold increased risk of gastric adenocarcinoma in H. pylori seropositive individuals over longitudinal follow-up."
+
+      - id: "UEMURA-2001"
+        title: "Helicobacter pylori infection and the development of gastric cancer"
+        authors: "Uemura N, Okamoto S, Yamamoto S, et al."
+        journal: "New England Journal of Medicine"
+        year: 2001
+        pmid: 11556297
+        url: "https://www.nejm.org/doi/full/10.1056/NEJMoa001999"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/11556297/"
+        source_domain_tld: ".org"
+        study_type: "Prospective cohort study"
+        key_findings: "Gastric cancer developed in 2.9% of infected patients versus 0% of uninfected patients during a mean 7.8-year follow-up."
+
+      - id: "WONG-2004"
+        title: "Helicobacter pylori eradication to prevent gastric cancer in a high-risk region of China: a randomized controlled trial"
+        authors: "Wong BC, Lam SK, Wong WM, et al."
+        journal: "JAMA"
+        year: 2004
+        pmid: 14722144
+        url: "https://pubmed.ncbi.nlm.nih.gov/14722144/"
+        source_domain_tld: ".gov"
+        study_type: "Randomized double-blind placebo-controlled trial"
+        key_findings: "Showed complete cancer prevention in subgroup without baseline precancerous lesions, highlighting the importance of early intervention."
+
+      - id: "YAN-2022"
+        title: "Effect of Helicobacter pylori Eradication on Gastric Cancer Prevention: Updated Report From a Randomized Controlled Trial With 26.5 Years of Follow-up"
+        authors: "Yan L, Chen Y, Chen F, et al."
+        journal: "Gastroenterology"
+        year: 2022
+        pmid: 35364066
+        url: "https://pubmed.ncbi.nlm.nih.gov/35364066/"
+        source_domain_tld: ".gov"
+        study_type: "Long-term randomized controlled follow-up"
+        key_findings: "26.5-year follow-up demonstrated a durable 43% reduction in gastric cancer incidence and significant reduction in mortality."
+
+      - id: "SHANDONG-2012-2019"
+        title: "Fifteen-year effects of Helicobacter pylori treatment / Long-term follow-up of the Shandong Intervention Trial"
+        authors: "Ma JL, Zhang L / Li WQ et al."
+        journal: "JNCI / The BMJ"
+        year: 2019
+        pmid: 31511237
+        secondary_pmid: 22271764
+        url: "https://pubmed.ncbi.nlm.nih.gov/31511237/"
+        source_domain_tld: ".gov"
+        study_type: "Randomized controlled intervention trial (22.3-year follow-up)"
+        key_findings: "2-week antibiotic treatment reduced gastric cancer incidence by 52% and mortality by 38% after 22 years."
+
+      - id: "CHOI-2018"
+        title: "Helicobacter pylori Therapy for the Prevention of Metachronous Gastric Cancer"
+        authors: "Choi IJ, Kook MC, Kim YI, et al."
+        journal: "New England Journal of Medicine"
+        year: 2018
+        pmid: 29562147
+        url: "https://www.nejm.org/doi/full/10.1056/NEJMoa1708423"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/29562147/"
+        source_domain_tld: ".org"
+        study_type: "Double-blind randomized controlled trial"
+        key_findings: "Eradication therapy halved the risk of metachronous gastric cancer (HR 0.50) after endoscopic resection of early neoplasia."
+
+      - id: "CHOI-2020"
+        title: "Family History of Gastric Cancer and Helicobacter pylori Treatment"
+        authors: "Choi IJ, Kim CG, Lee JY, et al."
+        journal: "New England Journal of Medicine"
+        year: 2020
+        pmid: 31995688
+        url: "https://www.nejm.org/doi/full/10.1056/NEJMoa1909666"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/31995688/"
+        source_domain_tld: ".org"
+        study_type: "Double-blind randomized controlled trial"
+        key_findings: "Eradication reduced gastric cancer incidence by 55% overall and 73% in confirmed eradicated first-degree relatives of gastric cancer patients."
+
+      - id: "CHIANG-2021"
+        title: "Mass eradication of Helicobacter pylori to reduce gastric cancer incidence and mortality: a long-term cohort study on Matsu Islands"
+        authors: "Chiang TH, Lee YC, Wu MS, et al."
+        journal: "Gut"
+        year: 2021
+        pmid: 32792335
+        url: "https://pubmed.ncbi.nlm.nih.gov/32792335/"
+        source_domain_tld: ".gov"
+        study_type: "Community-based longitudinal cohort"
+        key_findings: "Mass chemoprevention on Matsu Islands reduced gastric cancer incidence by 53% and mortality by 25%."
+
+      - id: "KUMAR-2020"
+        title: "Risk Factors and Incidence of Gastric Cancer After Detection of Helicobacter pylori Infection: A Large Cohort Study"
+        authors: "Kumar S, Metz DC, Ellenberg SS, et al."
+        journal: "Gastroenterology"
+        year: 2020
+        pmid: 31678138
+        url: "https://pubmed.ncbi.nlm.nih.gov/31678138/"
+        source_domain_tld: ".gov"
+        study_type: "Retrospective national cohort (N=371,813)"
+        key_findings: "Confirmed eradication was associated with a 76% reduction in cancer risk (SHR 0.24) in the Veterans Affairs health system."
+
+      - id: "FORD-2020-CANCER"
+        title: "Helicobacter pylori eradication for the prevention of gastric neoplasia"
+        authors: "Ford AC, Yuan Y, Forman D, Hunt R, Moayyedi P"
+        journal: "Cochrane Database of Systematic Reviews"
+        year: 2020
+        pmid: 32628793
+        url: "https://www.cochrane.org/CD005583/GASTRO_helicobacter-pylori-eradication-prevention-gastric-neoplasia"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/32628793/"
+        source_domain_tld: ".org"
+        study_type: "Systematic review and meta-analysis"
+        key_findings: "Pooled meta-analysis established an overall 46% reduction in gastric cancer incidence (RR 0.54) and 39% reduction in cancer mortality."
+
+  - name: "Peptic Ulcer Disease & Gastrointestinal Bleeding"
+    studies:
+      - id: "GRAHAM-1992"
+        title: "Effect of treatment of Helicobacter pylori infection on the long-term recurrence of gastric or duodenal ulcer"
+        authors: "Graham DY, Lew GM, Klein PD, et al."
+        journal: "Annals of Internal Medicine"
+        year: 1992
+        pmid: 1558340
+        url: "https://pubmed.ncbi.nlm.nih.gov/1558340/"
+        source_domain_tld: ".gov"
+        study_type: "Randomized controlled trial"
+        key_findings: "Duodenal ulcer recurrence dropped from 84% in persistent infection to 12% following eradication."
+
+      - id: "HOPKINS-1996"
+        title: "Relationship between Helicobacter pylori eradication and reduced duodenal and gastric ulcer recurrence: a review"
+        authors: "Hopkins RJ, Girardi LS, Turney EA"
+        journal: "Gastroenterology"
+        year: 1996
+        pmid: 8613015
+        url: "https://pubmed.ncbi.nlm.nih.gov/8613015/"
+        source_domain_tld: ".gov"
+        study_type: "Systematic review and meta-analysis"
+        key_findings: "Demonstrated 1-year duodenal ulcer recurrence plummeted from 67% to 6%, and gastric ulcer recurrence from 59% to 4% after eradication."
+
+      - id: "CHAN-2001"
+        title: "Preventing Recurrent Upper Gastrointestinal Bleeding in Patients with Helicobacter pylori Infection Who Are Taking Low-Dose Aspirin or Naproxen"
+        authors: "Chan FKL, Sung JJY, Chung SCS, et al."
+        journal: "New England Journal of Medicine"
+        year: 2001
+        pmid: 11274623
+        url: "https://www.nejm.org/doi/full/10.1056/NEJM200103293441304"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/11274623/"
+        source_domain_tld: ".org"
+        study_type: "Randomized intervention trial"
+        key_findings: "Eradication matched PPI maintenance in preventing recurrent bleeding in aspirin users (1.9% vs 0.9%); for NSAIDs, maintenance PPI remained necessary."
+
+      - id: "FORD-2016-PUD"
+        title: "Eradication therapy for peptic ulcer disease in Helicobacter pylori-positive people"
+        authors: "Ford AC, Gurusamy KS, Delaney B, Forman D, Moayyedi P"
+        journal: "Cochrane Database of Systematic Reviews"
+        year: 2016
+        pmid: 27092708
+        url: "https://www.cochrane.org/CD003840/GASTRO_eradication-therapy-peptic-ulcer-disease-helicobacter-pylori-positive-people"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/27092708/"
+        source_domain_tld: ".org"
+        study_type: "Systematic review and meta-analysis (55 RCTs)"
+        key_findings: "Definitively proved eradication is superior to ulcer-healing drugs alone for healing duodenal ulcers and preventing recurrence (RR 0.20)."
+
+  - name: "Functional & Non-Ulcer Dyspepsia"
+    studies:
+      - id: "TALLEY-1999"
+        title: "Absence of benefit of eradicating Helicobacter pylori in patients with nonulcer dyspepsia"
+        authors: "Talley NJ, Vakil N, Ballard ED, Fennerty MB"
+        journal: "New England Journal of Medicine"
+        year: 1999
+        pmid: 10511608
+        url: "https://www.nejm.org/doi/full/10.1056/NEJM199910073411502"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/10511608/"
+        source_domain_tld: ".org"
+        study_type: "Double-blind randomized controlled trial"
+        key_findings: "Symptom resolution at 12 months was 46% with triple therapy vs 50% with placebo, showing eradication does not universally relieve non-ulcer dyspepsia."
+
+      - id: "MOAYYEDI-2006"
+        title: "Eradication of Helicobacter pylori for non-ulcer dyspepsia"
+        authors: "Moayyedi P, Soo S, Deeks J, et al."
+        journal: "Cochrane Database of Systematic Reviews"
+        year: 2006
+        pmid: 15674889
+        url: "https://pubmed.ncbi.nlm.nih.gov/15674889/"
+        source_domain_tld: ".gov"
+        study_type: "Systematic review and meta-analysis (21 RCTs)"
+        key_findings: "Demonstrated a small, statistically significant symptom benefit over control with a Number Needed to Treat (NNT) of 14-15."
+
+  - name: "MALT Lymphoma & Hematologic Manifestations"
+    studies:
+      - id: "WOTHERSPOON-1993"
+        title: "Regression of primary low-grade B-cell gastric lymphoma of mucosa-associated lymphoid tissue type after eradication of Helicobacter pylori"
+        authors: "Wotherspoon AC, Doglioni C, Diss TC, et al."
+        journal: "The Lancet"
+        year: 1993
+        pmid: 8102719
+        url: "https://pubmed.ncbi.nlm.nih.gov/8102719/"
+        source_domain_tld: ".gov"
+        study_type: "Prospective interventional case series"
+        key_findings: "Demonstrated that H. pylori eradication alone can induce complete histological remission in localized gastric MALT lymphoma."
+
+      - id: "LIU-2001"
+        title: "Resistance of t(11;18) positive gastric mucosa-associated lymphoid tissue lymphoma to Helicobacter pylori eradication therapy"
+        authors: "Liu H, Du MQ, et al."
+        journal: "The Lancet"
+        year: 2001
+        pmid: 11197405
+        url: "https://pubmed.ncbi.nlm.nih.gov/11197405/"
+        source_domain_tld: ".gov"
+        study_type: "Translational molecular genetics"
+        key_findings: "Discovered that MALT lymphomas carrying the t(11;18)(q21;q21) API2-MALT1 translocation are resistant to antibiotic therapy alone."
+
+      - id: "STASI-2009"
+        title: "Effects of eradication of Helicobacter pylori infection in patients with immune thrombocytopenic purpura: a systematic review"
+        authors: "Stasi R, Sarpatwari A, Segal JB, et al."
+        journal: "Blood"
+        year: 2009
+        pmid: 19401560
+        url: "https://pubmed.ncbi.nlm.nih.gov/19401560/"
+        source_domain_tld: ".gov"
+        study_type: "Systematic review of interventional trials"
+        key_findings: "Found a 50.3% platelet response rate following eradication in adult ITP patients, justifying inclusion in clinical guidelines."
+
+      - id: "HUDAK-2017"
+        title: "An updated systematic review and meta-analysis on the association between Helicobacter pylori infection and iron deficiency anemia"
+        authors: "Hudak L, Jaraisy A, Haj S, Muhsen K"
+        journal: "Helicobacter"
+        year: 2017
+        pmid: 27411077
+        url: "https://pubmed.ncbi.nlm.nih.gov/27411077/"
+        source_domain_tld: ".gov"
+        study_type: "Meta-analysis"
+        key_findings: "Showed increased odds of iron deficiency anemia with infection (OR 1.72) and significant ferritin improvements following eradication."
+
+      - id: "KAPTAN-2000"
+        title: "Helicobacter pylori—is it a novel causative agent in Vitamin B12 deficiency?"
+        authors: "Kaptan K, Beyan C, Ifran A, et al."
+        journal: "Archives of Internal Medicine"
+        year: 2000
+        pmid: 10809040
+        url: "https://pubmed.ncbi.nlm.nih.gov/10809040/"
+        source_domain_tld: ".gov"
+        study_type: "Prospective clinical cohort"
+        key_findings: "H. pylori was identified in 56% of adult unexplained B12 deficiency; eradication alone restored B12 levels in 40% of cases."
+
+  - name: "Virulence Factors & Pathogenesis"
+    studies:
+      - id: "BLASER-1995"
+        title: "Infection with Helicobacter pylori strains possessing cagA is associated with an increased risk of developing adenocarcinoma of the stomach"
+        authors: "Blaser MJ, Perez-Perez GI, Kleanthous H, et al."
+        journal: "Cancer Research"
+        year: 1995
+        pmid: 7743510
+        url: "https://pubmed.ncbi.nlm.nih.gov/7743510/"
+        source_domain_tld: ".gov"
+        study_type: "Case-control serological investigation"
+        key_findings: "CagA-positive strains carried a 5.8-fold higher risk of gastric adenocarcinoma compared to uninfected individuals."
+
+      - id: "COVER-1992"
+        title: "Purification and characterization of the vacuolating toxin from Helicobacter pylori"
+        authors: "Cover TL, Blaser MJ"
+        journal: "Journal of Biological Chemistry"
+        year: 1992
+        pmid: 1587837
+        url: "https://pubmed.ncbi.nlm.nih.gov/1587837/"
+        source_domain_tld: ".gov"
+        study_type: "Biochemical toxin characterization"
+        key_findings: "Isolated the 87-kDa VacA pore-forming toxin causing intracellular vacuolization and host immune modulation."
+
+  - name: "Diagnostics & Testing Accuracy"
+    studies:
+      - id: "BEST-2018"
+        title: "Non-invasive diagnostic tests for Helicobacter pylori infection"
+        authors: "Best LM, Takwoingi Y, Siddique S, et al."
+        journal: "Cochrane Database of Systematic Reviews"
+        year: 2018
+        pmid: 29543326
+        url: "https://www.cochrane.org"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/29543326/"
+        source_domain_tld: ".org"
+        study_type: "Diagnostic test accuracy meta-analysis"
+        key_findings: "Demonstrated urea breath testing and monoclonal stool antigen tests have superior sensitivity and specificity compared to serology."
+
+      - id: "EL-SERAG-2018"
+        title: "Houston Consensus Conference on Testing for Helicobacter pylori Infection in the United States"
+        authors: "El-Serag HB, Kao JY, Kanwal F, et al."
+        journal: "Clinical Gastroenterology and Hepatology"
+        year: 2018
+        pmid: 29555460
+        url: "https://pubmed.ncbi.nlm.nih.gov/29555460/"
+        source_domain_tld: ".gov"
+        study_type: "National clinical consensus"
+        key_findings: "Strongly discouraged serology due to inability to detect active infection; formalized post-treatment testing timelines."
+
+  - name: "Clinical Trials & Therapeutics"
+    studies:
+      - id: "MALFERTHEINER-2011"
+        title: "Helicobacter pylori eradication with a capsule containing bismuth subcitrate potassium, metronidazole, and tetracycline... a phase 3 trial"
+        authors: "Malfertheiner P, Bazzoli F, Delchier V, et al."
+        journal: "The Lancet"
+        year: 2011
+        pmid: 21345487
+        url: "https://pubmed.ncbi.nlm.nih.gov/21345487/"
+        source_domain_tld: ".gov"
+        study_type: "Phase 3 multicenter RCT (Pylera)"
+        key_findings: "10-day bismuth quadruple capsule therapy achieved 93% eradication vs 68% for clarithromycin triple therapy, overcoming resistance."
+
+      - id: "CHEY-2022-PHRONTIS"
+        title: "Vonoprazan Triple and Dual Therapy for Helicobacter pylori Infection in the United States and Europe: Randomized Clinical Trial"
+        authors: "Chey WD, Howden CW, Cappell MS, et al."
+        journal: "Gastroenterology"
+        year: 2022
+        pmid: 35679950
+        url: "https://pubmed.ncbi.nlm.nih.gov/35679950/"
+        source_domain_tld: ".gov"
+        study_type: "Phase 3 randomized double-blind trial"
+        key_findings: "Vonoprazan-based triple therapy achieved 84.7% eradication in clarithromycin-resistant strains vs 31.9% for PPI triple therapy."
+
+      - id: "SAVOLDI-2018"
+        title: "Prevalence of Antibiotic Resistance in Helicobacter pylori: A Systematic Review and Meta-analysis in World Health Organization Regions"
+        authors: "Savoldi A, Carrara E, Graham DY, et al."
+        journal: "Annals of Internal Medicine"
+        year: 2018
+        pmid: 29990487
+        url: "https://pubmed.ncbi.nlm.nih.gov/29990487/"
+        source_domain_tld: ".gov"
+        study_type: "Worldwide systematic review (66,142 patients)"
+        key_findings: "High global clarithromycin (>15%) and metronidazole (>30%) resistance prompted recommendations against empiric clarithromycin triple therapy."
+
+  - name: "Consensus Guidelines & Practice Statements"
+    studies:
+      - id: "ACG-GUIDELINE-2024"
+        title: "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection"
+        authors: "Chey WD, Leontiadis GI, Howden CW, Moss SF"
+        journal: "American Journal of Gastroenterology"
+        year: 2024
+        pmid: 39231268
+        url: "https://gi.org"
+        secondary_url: "https://pubmed.ncbi.nlm.nih.gov/39231268/"
+        source_domain_tld: ".org"
+        study_type: "Clinical guideline (GRADE methodology)"
+        key_findings: "Recommends 14-day bismuth quadruple therapy or vonoprazan combinations as primary first-line regimens; mandates post-treatment testing."
+
+      - id: "MAASTRICHT-VI-2022"
+        title: "Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report"
+        authors: "Malfertheiner P, Megraud F, Rokkas T, et al."
+        journal: "Gut"
+        year: 2022
+        pmid: 35944925
+        url: "https://pubmed.ncbi.nlm.nih.gov/35944925/"
+        source_domain_tld: ".gov"
+        study_type: "International consensus report"
+        key_findings: "Affirmed H. pylori gastritis as an infectious disease (ICD-11); recommends susceptibility-guided treatment and screening in high-risk zones."
+
+      - id: "KYOTO-CONSENSUS-2015"
+        title: "Kyoto global consensus report on Helicobacter pylori gastritis"
+        authors: "Sugano K, Tack J, Kuipers EJ, et al."
+        journal: "Gut"
+        year: 2015
+        pmid: 26187502
+        url: "https://pubmed.ncbi.nlm.nih.gov/26187502/"
+        source_domain_tld: ".gov"
+        study_type: "Global consensus"
+        key_findings: "Classified H. pylori gastritis as an independent disease entity requiring eradication to prevent malignant transformation."
+
+      - id: "AGA-GIM-2020"
+        title: "AGA Clinical Practice Guidelines on Management of Gastric Intestinal Metaplasia"
+        authors: "Shah SC, Piazuelo MB, Kuipers EJ, Li D"
+        journal: "Gastroenterology"
+        year: 2020
+        pmid: 31821868
+        url: "https://pubmed.ncbi.nlm.nih.gov/31821868/"
+        source_domain_tld: ".gov"
+        study_type: "Clinical practice guideline"
+        key_findings: "Strongly advises testing and eradicating H. pylori in all patients with gastric intestinal metaplasia."
+
+      - id: "ESPGHAN-NASPGHAN-2024"
+        title: "Updated Joint ESPGHAN/NASPGHAN Guidelines for Management of Helicobacter pylori Infection in Children and Adolescents"
+        authors: "Jones NL, Koletzko S, Rowland M, et al."
+        journal: "Journal of Pediatric Gastroenterology and Nutrition"
+        year: 2024
+        pmid: 39148213
+        url: "https://pubmed.ncbi.nlm.nih.gov/39148213/"
+        source_domain_tld: ".gov"
+        study_type: "Pediatric clinical guideline"
+        key_findings: "Recommends against 'test-and-treat' in children with functional abdominal symptoms; requires endoscopic and histological confirmation."
+
+  - name: "Global Epidemiology & Federal Surveillance"
+    studies:
+      - id: "HOOI-2017"
+        title: "Global Prevalence of Helicobacter pylori Infection: Systematic Review and Meta-Analysis"
+        authors: "Hooi JKY, Lai WY, Ng WK, et al."
+        journal: "Gastroenterology"
+        year: 2017
+        pmid: 28456631
+        url: "https://pubmed.ncbi.nlm.nih.gov/28456631/"
+        source_domain_tld: ".gov"
+        study_type: "Systematic review and meta-analysis"
+        key_findings: "Calculated global prevalence at 50.8% (~4.4 billion people), with substantial disparities across socioeconomic regions."
+
+      - id: "NCI-MONOGRAPH"
+        title: "Helicobacter pylori (H. pylori) and Cancer Fact Sheet"
+        authors: "National Cancer Institute"
+        journal: "NCI Cancer Risk Series"
+        year: 2024
+        url: "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet"
+        source_domain_tld: ".gov"
+        study_type: "Federal scientific review"
+        key_findings: "Outlines carcinogenesis, epidemiologic evidence, and current chemoprevention initiatives."
+
+      - id: "CDC-HARP"
+        title: "Helicobacter pylori Antimicrobial Resistance Monitoring Program (HARP)"
+        authors: "Centers for Disease Control and Prevention"
+        journal: "CDC Surveillance Portal"
+        year: 2024
+        url: "https://www.cdc.gov"
+        source_domain_tld: ".gov"
+        study_type: "Pathogen resistance surveillance"
+        key_findings: "Surveillance of macrolide, nitroimidazole, and fluoroquinolone resistance among US isolates."
